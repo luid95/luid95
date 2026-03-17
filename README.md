@@ -1,42 +1,51 @@
 # 👋 Hola, soy Luis Morales
 
-🎓 Desarrollador en formación
-💻 Enfocado en Backend y Lógica de Programación
+🎓 Desarrollador Front End enfocado en React  
+💻 Construyendo interfaces modernas, escalables y orientadas al usuario  
 📍 México
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy desarrollador en formación con experiencia en:
+Soy desarrollador con enfoque en **Front End**, especializado en la creación de interfaces dinámicas utilizando **React.js** y buenas prácticas de desarrollo web.
 
-* React
-* Python
-* PHP (Laravel)
-* Git y GitHub
-* Lógica de programación
-* Desarrollo web básico
+Me interesa construir aplicaciones web eficientes, con una excelente experiencia de usuario, integrando servicios mediante **APIs REST** y manteniendo una arquitectura limpia y escalable.
 
-Actualmente me encuentro fortaleciendo mis habilidades en backend y estructuras de datos.
+También cuento con experiencia en backend, lo que me permite entender el flujo completo de las aplicaciones y colaborar en soluciones integrales.
 
 ---
 
 ## 🛠 Tecnologías y Herramientas
 
-* 🐍 Python
-* 🐘 PHP
-* 🌐 HTML / CSS
-* 🛢 MySQL
-* 🔧 Git & GitHub
-* 🖥 VS Code
+### 🎯 Front End
+
+- ⚛️ React.js
+- 🟨 JavaScript (ES6+)
+- 🌐 HTML5 / CSS3
+- 🎨 Sass
+
+### ⚙️ Backend
+
+- 🐘 PHP (Laravel)
+- 🐍 Python
+- 🛢 MySQL
+- 🔌 APIs REST
+
+### 🧰 Herramientas de desarrollo
+
+- 🔧 Git & GitHub
+- 🖥 Visual Studio Code
+- 🐙 Control de versiones
+- 🧪 Debugging y testing básico
 
 ---
 
-## 📊 Estadísticas
+## 📈 Actualmente
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=radical)
+- 🚀 Fortaleciendo habilidades en **React y desarrollo Front End**
+- 🧠 Mejorando lógica de programación y estructuras de datos
+- ⚡ Enfocado en crear proyectos web completos y funcionales
 
 ---
 
