@@ -1,8 +1,8 @@
-# 👋 Hola, soy Luis Morales
+# 👋 Hola, soy Luis David Morales Alcántara
 
 🎓 Desarrollador Front End enfocado en React  
 💻 Construyendo interfaces modernas, escalables y orientadas al usuario  
-📍 México
+📍 Puebla, México
 
 ---
 
@@ -12,7 +12,7 @@ Soy desarrollador con enfoque en **Front End**, especializado en la creación de
 
 Me interesa construir aplicaciones web eficientes, con una excelente experiencia de usuario, integrando servicios mediante **APIs REST** y manteniendo una arquitectura limpia y escalable.
 
-También cuento con experiencia en backend, lo que me permite entender el flujo completo de las aplicaciones y colaborar en soluciones integrales.
+También cuento con experiencia en backend, lo que me permite entender el flujo completo de las aplicaciones y desarrollar soluciones completas.
 
 ---
 
@@ -27,29 +27,29 @@ También cuento con experiencia en backend, lo que me permite entender el flujo 
 
 ### ⚙️ Backend
 
+- 🟩 Node.js
 - 🐘 PHP (Laravel)
 - 🐍 Python
 - 🛢 MySQL
 - 🔌 APIs REST
 
-### 🧰 Herramientas de desarrollo
+### 🧰 Herramientas
 
 - 🔧 Git & GitHub
 - 🖥 Visual Studio Code
-- 🐙 Control de versiones
-- 🧪 Debugging y testing básico
+- 🧪 Debugging
 
 ---
 
-## 📈 Actualmente
+## 📊 Estadísticas de GitHub
 
-- 🚀 Fortaleciendo habilidades en **React y desarrollo Front End**
-- 🧠 Mejorando lógica de programación y estructuras de datos
-- ⚡ Enfocado en crear proyectos web completos y funcionales
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luid95&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luid95&layout=compact&theme=radical)
 
 ---
 
-## 📂 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 ### 🔹 React JS
 
@@ -75,6 +75,38 @@ Descripción: ProyectoCaras - Nueva Versión con React y TypeScript
 Tecnologías: React
 
 🔗 https://github.com/luid95/ProyectoCaras-V2
+
+### 🔹 Clon de Spotify (Front End)
+
+Interfaz moderna replicando Spotify con enfoque en UI/UX
+
+- ⚛️ React / HTML / Sass
+- 🎨 Diseño responsive
+- 🧩 Componentes reutilizables
+
+👉 https://github.com/luid95/Spotify
+
+---
+
+### 🔹 Landing Page Interactiva (Proyecto CARAS)
+
+Landing page con validaciones y experiencia de usuario mejorada
+
+- 🎯 JavaScript (validaciones)
+- 🎨 Sass modular
+- 📩 Formulario interactivo
+
+👉 https://github.com/luid95/Landing-SEO
+
+---
+
+## 📈 Actualmente
+
+- 🚀 Fortaleciendo habilidades en **React y Front End**
+- 🧠 Mejorando lógica de programación
+- ⚡ Construyendo proyectos reales para portafolio
+
+---
 
 📫 Contacto
 
